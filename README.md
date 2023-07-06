@@ -1,3 +1,3 @@
 # challenge-go
 
-docker run olivandre:/fullcycle
+docker run olivandre/fullcycle
